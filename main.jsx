@@ -1,3 +1,4 @@
+// App entry — mount the social media React root
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './frontend_react.jsx'

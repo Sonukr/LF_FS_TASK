@@ -5,6 +5,8 @@
   "main": "backend_express.js",
   "scripts": {
     "start": "node backend_express.js",
+    "dev:server": "node backend_express.js",
+    "dev:client": "vite",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
